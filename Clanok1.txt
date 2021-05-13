@@ -2,9 +2,9 @@ Autor: Samuel Gabriel Tchir
 Nazov: Bola skor sliepka alebo vajco
 Datum: 13.5.2021
 ----
-Ide o starú dilemu,
-ktorú ľudstvo rieši už celé tisícročia – čo bolo skôr,
-vajce alebo sliepka? Vedcom sa konečne podarilo nájsť odpoveď.
+Každá sliepka sa vyliahla z vajca, ktoré zniesla sliepka, ktorá sa vyliahla z vajca,
+ktoré... atď. Koniec – vlastne začiatok – nevidno. Logik by povedal:
+Na otázku, či bolo skôr vajce alebo sliepka, niet rozumnej odpovede, je to príklad chybnej otázky.
 ----
 Škrupina je mimoriadne silný a veľmi ľahký materiál,
 ktorý sa zatiaľ nepodarilo replikovať žiadnemu vedcovi. Dr. Colin Freeman dúfal,
