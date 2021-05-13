@@ -9,3 +9,7 @@ vajce alebo sliepka? Vedcom sa konečne podarilo nájsť odpoveď.
 Škrupina je mimoriadne silný a veľmi ľahký materiál,
 ktorý sa zatiaľ nepodarilo replikovať žiadnemu vedcovi. Dr. Colin Freeman dúfal,
 že sa dozvedia, ako vytvoriť túto umelú napodobeniny škrupiny vajíčka.
+----
+To, čo bolo zistené, bol proteín zvaný ovocledidin-17 (OC-17),
+ktorý existuje len vo vaječníkoch sliepky a má zásadný význam pre formovanie škrupiny vajíčka.
+Proteín OC-17 pôsobí ako hlavný staviteľ škrupiny.
